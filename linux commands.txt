@@ -20,7 +20,7 @@ purpoose:- It doesn't delete files or commands -it only clear what you screen
 
 4. Cd
 cd stands for change directory
-purpoose:-it is used to move b/w directories.
+purpoose:-it is used to move b/w directories. 
 
 cd commands
 1. cd directory_nmae ------------> this is forward
@@ -30,3 +30,33 @@ cd commands
 
 5. Touch
 touch is used to create empty files or update file timestamps
+
+
+6. rmdiv
+rmdiv means remove directories
+purpoose:- IT is used remove empty folder
+
+7. rm
+rm is stands for remove
+purpoose:- it is used to delete files and directories in linux.
+
+
+8. ls
+is means list.
+purpoose:- it shows files and folders in a directory.
+
+ls commands:
+1. ls lists files and folders in the current directory.
+2. ls-l shows detailed information.
+3. ls-a shows hidden files.
+4. ls-r lists files recursively(trees).
+
+
+9. echo
+echo is used to display text or values on the terminal.
+it is also used to write text into files.
+
+10. cat 
+cat stands for concatenate
+purpoose:- it is mainly used to view file content in the terminal.
+it is also used to write into files.
